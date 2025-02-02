@@ -1,5 +1,5 @@
 Hi, I am Shubham Kumar 👋
-- 🔭 I'm currently working in Tata cunsultancy Services as It Support Engineer @CITI Group
+- 🔭 I'm currently working in Micron Technology as Data Scientist-2.
 - 👀 I’m interested in analysing the data and building the model as well as improvising them.
 - 🌱 I’m currently learning Deep Learning Algorithm
 - 💞️ I’m looking to collaborate on Data Analyst, Machine Learning Model, Data Science Projects
